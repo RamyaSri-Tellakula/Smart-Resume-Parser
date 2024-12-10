@@ -1,4 +1,4 @@
-Smart Resume Parser with AI-Driven Job Matching
+#Smart Resume Parser with AI-Driven Job Matching
 
 ![Employer Reviewing Resume](https://github.com/RamyaSri-Tellakula/Smart-Resume-Parser/blob/main/Employer%20Reviewing%20Resume.png)
 
